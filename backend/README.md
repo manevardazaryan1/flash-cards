@@ -39,10 +39,14 @@ A lightweight, robust Node.js backend for managing and serving flashcards. This 
 
 ### Clone the repository
 ```bash
-git clone repo-url
+git clone https://github.com/manevardazaryan1/flash-cards.git
 cd backend
 ```
 ### Install dependencies
+```bash
+npm install
+```
+
 #### Create a .env file in the root directory:
 ```bash
 PORT=3000

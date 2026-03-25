@@ -1,4 +1,4 @@
-export const ALLOWED_ORIGINS = [process.env.FRONTEND_URL]
+export const ALLOWED_ORIGINS = [process.env.FRONTEND_URL, 'http://localhost:4173']
 export const ALLOWED_METHODS = ['GET']
 export const PALETTE = [
     '#FFADAD',
