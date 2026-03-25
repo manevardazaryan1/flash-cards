@@ -6,6 +6,8 @@
 
 Flash Cards is a full-stack application designed to help users master new concepts through interactive 3D flashcards. It features a React-based Progressive Web App (PWA) frontend and a robust Node.js/Express backend API.
 
+The app includes a real-time progress tracking system with a dynamic visual progress bar
+
 ## Project Architecture
 ### This project is organized as a monorepo, ensuring a unified workflow for both the client and server:
 

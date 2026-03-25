@@ -5,6 +5,7 @@ A high-performance, accessible, and "flashy" learning platform built with React 
 ## Key Features
 
 * **Interactive Flashcards:** 3D flip animations with smooth CSS transitions and perspective effects.
+* **Progress Calculation:** Implements a specialized logic to calculate completion percentages and "Mastered" vs. "Learning" status.
 * **Progressive Web App (PWA):** Installable on iOS/Android with offline support and local caching.
 * **Accessible by Design:** Full ARIA support (aria-live, aria-atomic, role="dialog") and keyboard-friendly navigation.
 * **Persistent State:** Integrated with Redux Persist to save your learning progress even after closing the browser.
