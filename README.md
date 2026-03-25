@@ -1,10 +1,10 @@
 ![Flash Cards Logo](./frontend/public/logo.png)  
-<h1 id='top'>Flashy Cards: Full-Stack PWA Learning Platform</h1>
+<h1 id='top'>Flash Cards: Full-Stack PWA Learning Platform</h1>
 
 ![Flash Cards app](./frontend/src/assets/images/app/app.webp)
 ![Flash Cards reports](./frontend/src/assets/images/app/app-info-modal.webp)
 
-Flashy Cards is a full-stack application designed to help users master new concepts through interactive 3D flashcards. It features a React-based Progressive Web App (PWA) frontend and a robust Node.js/Express backend API.
+Flash Cards is a full-stack application designed to help users master new concepts through interactive 3D flashcards. It features a React-based Progressive Web App (PWA) frontend and a robust Node.js/Express backend API.
 
 ## Project Architecture
 ### This project is organized as a monorepo, ensuring a unified workflow for both the client and server:

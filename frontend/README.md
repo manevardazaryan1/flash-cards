@@ -1,4 +1,4 @@
-<h1 id='top'>Flashy Cards - Frontend (PWA)</h1>
+<h1 id='top'>Flash Cards - Frontend (PWA)</h1>
 
 A high-performance, accessible, and "flashy" learning platform built with React and Vite. This application features 3D interactive cards, persistent study progress, and full offline support as a Progressive Web App.
 
